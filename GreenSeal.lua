@@ -24,9 +24,9 @@ function SMODS.INIT.RatSeal()
             config = {}
         },
         {
-            name = "Green Seal",
+            name = "绿色蜡封",
             text = {
-                "Increases round hand size",
+                "在本轮中,所有扑克数值增加1",
                 "by 1 when {C:attention}discarded"
             }
         }
